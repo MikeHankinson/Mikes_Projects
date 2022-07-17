@@ -7,7 +7,5 @@ description: "Great site about Jekyll on GH-Pages."
 
 # Build settings
 remote_theme: minima
-
-minima:
   skin: dark
 
