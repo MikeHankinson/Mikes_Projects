@@ -25,6 +25,8 @@ It is your opportunity to let us know all the details "about" your project:
 - people involved
 - code and projects used
 
+# Table Insert from https://tablesgenerator.com/markdown_tables
+
 
 |         	| Test Accuracy 	| False negative<br>out of 1,300 	| False Positive<br>out of 1,300 	|
 |---------	|---------------	|--------------------------------	|--------------------------------	|
@@ -36,3 +38,28 @@ It is your opportunity to let us know all the details "about" your project:
 | Model 5 	|      0.92     	|               47               	|               154              	|
 | Model 6 	|      0.94     	|               83               	|               78               	|
 | Model 7 	|      0.90     	|               37               	|               221              	|
+
+
+# Table Using Advanced Liquid (For Loop)
+
+{% for animal in site.data.animals %}
+- The {{ animal.name }} is a {{ animal.size }} animal.
+{% endfor %}
+
+# Table Using Advanced Liquid (If Statement) -- Format large animals
+
+{% for animal in site.data.animals %}
+
+{% if animal.size == "large" %}- <strong style="color: {{ animal.color }};">{{ animal.name }}</strong>
+{% else %}- <small>{{ animal.name }}</small>
+{% endif %}
+
+{% endfor %}
+
+
+# Table Using Advanced Liquid (Where Filter) -- Subset small animals
+
+{% assign small_animals = site.data.animals | where: "size", "small" %}
+{% for animal in small_animals %}
+- {{ animal.name | upcase }}
+{% endfor %}
