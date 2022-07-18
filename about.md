@@ -1,5 +1,6 @@
 ---
-layout: dark
+#layout: dark
+layout: page
 title: About
 example: This is an example value.
 ---
