@@ -1,17 +1,17 @@
 ---
-# layout: dark
+#layout: dark
 layout: page
 title: About
 example: This is an example value.
 ---
 
 
-# Use Liquid language to style the sentence below  
+#Use Liquid language to style the sentence below  
 This page describes the amazing {{ site.title }} by {{ site.author.name }}.
 {{ page.example }}
 
 
-# Use Liquid language to insert big-cat.html from the _Include Folder 
+#Use Liquid language to insert big-cat.html from the _Include Folder 
 {% include big-cat.html %}
 
 
