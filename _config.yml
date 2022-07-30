@@ -3,7 +3,7 @@ title: Mike's Projects
 author:
   name: Mike Hankinson
   email: mmhankinson@gmail.com
-description: "Great site about Jekyll on GH-Pages."
+description: "Project Listing."
 
 # Build settings
 remote_theme: jekyll/minima
