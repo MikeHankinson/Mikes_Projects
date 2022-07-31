@@ -17,6 +17,7 @@ categories: demo
 | Recommendation   Systems        	| Building a recommendation system   to recommend the best Amazon products to users         	| Rank Based Recommendation   Systems, Similarity Based Recommendation Systems, Matrix Factorization Based   Recommendation Systems 	|
 | Capstone                        	| Build computer models to detect   malaria in images of red blood cells.                   	| Exploratory Data Analysis, Data   Visualization, Statistics, Convolutional Neural Networks                                        	|
 
+
 ## University of Chicago
 
 
