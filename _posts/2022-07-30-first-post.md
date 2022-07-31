@@ -6,6 +6,7 @@ categories: demo
 ---
 
 ## MIT
+
 | Content                         	| Description                                                                               	| Skills                                                                                                                            	|
 |---------------------------------	|-------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------	|
 | Foundations   for Data Science  	| Analyzing the marketing   campaigns to help CMO devise the next strategy                  	| Exploratory   Data Analysis, Data Visualization, Statistics                                                                       	|
@@ -17,12 +18,8 @@ categories: demo
 | Capstone                        	| Build computer models to detect   malaria in images of red blood cells.                   	| Exploratory Data Analysis, Data   Visualization, Statistics, Convolutional Neural Networks                                        	|
 
 ## University of Chicago
-- 
--
--
--
+
 
 ## University of Texas
 - [Kickstarter Funding Campaign](https://github.com/MikeHankinson/kickstarter-analysis)
--  
--
+
