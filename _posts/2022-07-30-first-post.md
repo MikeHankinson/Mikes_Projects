@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contains a listing of projects completed through various sources.  
+title: 
 tags: 
 categories: demo
 ---
