@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Compilation of Completed Data Science Projects through University of Texas, University of Chicago and MIT
 tags: 
 categories: demo
 ---
