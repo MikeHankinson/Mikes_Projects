@@ -15,7 +15,7 @@ categories: demo
 | [Practical   Data Science](https://github.com/MikeHankinson/4_MIT_Practical_Data_Science)        	| Predicting the conversion of   leads to customers and forecasting the stock prices        	| Decision Trees, Random Forest,   Time Series                                                                                      	|
 | [Deep   Learning](https://github.com/MikeHankinson/5_MIT_Deep_Learning)<br>             	| Recognizing house number digits   from street view images using Neural Networks           	| Artificial Neural Networks,   Convolutional Neural Networks                                                                       	|
 | [Recommendation   Systems](https://github.com/MikeHankinson/6_MIT_Recommendation_Systems)        	| Building a recommendation system   to recommend the best Amazon products to users         	| Rank Based Recommendation   Systems, Similarity Based Recommendation Systems, Matrix Factorization Based   Recommendation Systems 	|
-| Capstone                        	| Build computer models to detect   malaria in images of red blood cells.                   	| Exploratory Data Analysis, Data   Visualization, Statistics, Convolutional Neural Networks                                        	|                           	|
+| [Capstone](https://github.com/MikeHankinson/7_MIT_Capstone_Malaria_Detection_with_CNN)                        	| Build computer models to detect   malaria in images of red blood cells.                   	| Exploratory Data Analysis, Data   Visualization, Statistics, Convolutional Neural Networks                                        	|                           	|
 
 
 ## University of Chicago
