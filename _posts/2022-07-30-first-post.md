@@ -6,9 +6,6 @@ categories: demo
 ---
 
 ## MIT
-
-[link text](https://www.google.com/search?q=dow+jones+today&rlz=1C1CHBF_enUS831US832&oq=&aqs=chrome.0.35i39i362l3j46i39i362j35i39i362l4.9539771j0j7&sourceid=chrome&ie=UTF-8)
-
 | Content                         	| Description                                                                               	| Skills                                                                                                                            	|
 |---------------------------------	|-------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------	|
 | [Foundations   for Data Science](https://github.com/MikeHankinson/1_MIT_Foundations_For_Data_Science/)  	| Analyzing the marketing   campaigns to help CMO devise the next strategy                  	| Exploratory Data Analysis, Data   Visualization, Statistics                                                                       	|
