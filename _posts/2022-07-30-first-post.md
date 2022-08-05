@@ -6,6 +6,7 @@ categories: demo
 ---
 
 ## MIT
+
 | Content                         	| Description                                                                               	| Skills                                                                                                                            	|
 |---------------------------------	|-------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------	|
 | [Foundations   for Data Science](https://github.com/MikeHankinson/1_MIT_Foundations_For_Data_Science/)  	| Analyzing the marketing   campaigns to help CMO devise the next strategy                  	| Exploratory Data Analysis, Data   Visualization, Statistics                                                                       	|
