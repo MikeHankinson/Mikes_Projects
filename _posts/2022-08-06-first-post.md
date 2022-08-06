@@ -4,7 +4,17 @@ title: Compilation of Completed Data Science Projects through University of Texa
 tags: 
 categories: demo
 ---
+
 # MIT
+
+### [Capstone](https://github.com/MikeHankinson/7_MIT_Capstone_Malaria_Detection_with_CNN)
+Build computer models to detect malaria in images of red blood cells.
+
+#### Skills
+-	Exploratory Data Analysis 
+-	Data Visualization 
+-	Statistics 
+-	Convolutional Neural Networks
 
 ### [Foundations   for Data Science](https://github.com/MikeHankinson/1_MIT_Foundations_For_Data_Science/)
 Analyze the marketing campaigns to help CMO devise the next strategy
@@ -53,17 +63,6 @@ Build a recommendation system to recommend the best Amazon products to users
 -	Rank Based Recommendation Systems 
 -	Similarity Based Recommendation Systems 
 -	Matrix Factorization Based Recommendation Systems
-
-### [Capstone](https://github.com/MikeHankinson/7_MIT_Capstone_Malaria_Detection_with_CNN)
-Build computer models to detect malaria in images of red blood cells.
-
-#### Skills
--	Exploratory Data Analysis 
--	Data Visualization 
--	Statistics 
--	Convolutional Neural Networks
-
-
 
 
 
