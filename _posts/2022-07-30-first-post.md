@@ -62,56 +62,57 @@ categories: demo
 Analyzing the marketing campaigns to help CMO devise the next strategy
 
 #### Skills
-• Exploratory Data Analysis 
-• Data Visualization 
-• Statistics
+•	Exploratory Data Analysis 
+•	Data Visualization 
+•	Statistics
 
 ### [Data   Analysis & Visualization](https://github.com/MikeHankinson/2_MIT_Data-Analysis_and_Visualization)
 Applying dimensionality reduction on the Auto-mpg dataset and segmenting bank customers
 
 #### Skills
-•PCA 
-• t-sne 
-• Clustering
+•	PCA 
+•	t-sne 
+•	Clustering
 
 
 ### [Machine   Learning](https://github.com/MikeHankinson/3_MIT_Machine_Learning)
 Predicting house prices in Boston and predicting hotel bookings cancellations
 
 #### Skills
-•Linear Regression 
-• Logistic Regression 
-• kNN
+•	Linear Regression 
+•	Logistic Regression 
+•	kNN
 
-### | [Practical   Data Science](https://github.com/MikeHankinson/4_MIT_Practical_Data_Science)
+### |[Practical   Data Science](https://github.com/MikeHankinson/4_MIT_Practical_Data_Science)
 Predicting the conversion of leads to customers and forecasting the stock prices
 
 #### Skills
-•Decision Trees 
-• Random Forest 
-• Time Series
+•	Decision Trees 
+•	Random Forest 
+•	Time Series
 
-### [Deep   Learning](https://github.com/MikeHankinson/5_MIT_Deep_Learning)Recognizing house number digits from street view images using Neural Networks
+### [Deep   Learning](https://github.com/MikeHankinson/5_MIT_Deep_Learning)
+Recognizing house number digits from street view images using Neural Networks
 
 #### Skills
-•Artificial Neural Networks 
-• Convolutional Neural Networks
+•	Artificial Neural Networks 
+•	Convolutional Neural Networks
 
 ### [Recommendation   Systems](https://github.com/MikeHankinson/6_MIT_Recommendation_Systems)
 Building a recommendation system to recommend the best Amazon products to users
 
 #### Skills
-• Rank Based Recommendation Systems 
-• Similarity Based Recommendation Systems 
-• Matrix Factorization Based Recommendation Systems
+•	Rank Based Recommendation Systems 
+•	Similarity Based Recommendation Systems 
+•	Matrix Factorization Based Recommendation Systems
 
 ### [Capstone](https://github.com/MikeHankinson/7_MIT_Capstone_Malaria_Detection_with_CNN)
 Build computer models to detect malaria in images of red blood cells.
 
 #### Skills
-• Exploratory Data Analysis 
-• Data Visualization 
-• Statistics 
-• Convolutional Neural Networks
+•	Exploratory Data Analysis 
+•	Data Visualization 
+•	Statistics 
+•	Convolutional Neural Networks
 
 
