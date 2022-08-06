@@ -62,28 +62,28 @@ categories: demo
 Analyzing the marketing campaigns to help CMO devise the next strategy
 
 #### Skills
-•	Exploratory Data Analysis 
-•	Data Visualization 
-•	Statistics
+- Exploratory Data Analysis 
+- Data Visualization 
+- Statistics
 
 ### [Data   Analysis & Visualization](https://github.com/MikeHankinson/2_MIT_Data-Analysis_and_Visualization)
 Applying dimensionality reduction on the Auto-mpg dataset and segmenting bank customers
 
 #### Skills
-•	PCA 
-•	t-sne 
-•	Clustering
+- PCA 
+- t-sne 
+- Clustering
 
 
 ### [Machine   Learning](https://github.com/MikeHankinson/3_MIT_Machine_Learning)
 Predicting house prices in Boston and predicting hotel bookings cancellations
 
 #### Skills
-•	Linear Regression 
-•	Logistic Regression 
-•	kNN
+- Linear Regression 
+- Logistic Regression 
+- kNN
 
-### |[Practical   Data Science](https://github.com/MikeHankinson/4_MIT_Practical_Data_Science)
+### [Practical   Data Science](https://github.com/MikeHankinson/4_MIT_Practical_Data_Science)
 Predicting the conversion of leads to customers and forecasting the stock prices
 
 #### Skills
