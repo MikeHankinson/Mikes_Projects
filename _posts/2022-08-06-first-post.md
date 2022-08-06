@@ -4,7 +4,7 @@ title: Compilation of Completed Data Science Projects through University of Texa
 tags: 
 categories: demo
 ---
-## MIT
+# MIT
 
 ### [Foundations   for Data Science](https://github.com/MikeHankinson/1_MIT_Foundations_For_Data_Science/)
 Analyze the marketing campaigns to help CMO devise the next strategy
@@ -68,7 +68,7 @@ Build computer models to detect malaria in images of red blood cells.
 
 
  
-## UT
+# UT
 
 ### Capstone	
 Analyze data related to the Covid-19 pandemic, with the aim of producing a machine learning model that predicts the number of cases/fatalities that a given country can expect in the future.
