@@ -4,7 +4,6 @@ title: Compilation of Completed Data Science Projects through University of Texa
 tags: 
 categories: demo
 ---
-
 ## MIT
 
 ### [Foundations   for Data Science](https://github.com/MikeHankinson/1_MIT_Foundations_For_Data_Science/)
@@ -77,25 +76,25 @@ Analyze data related to the Covid-19 pandemic, with the aim of producing a machi
 #### Skills
 - Tools: Python, Pandas, Numpy, Tensorflow, Jupyter Notebook                                                                                                                                                                                                                                                    - Database: PostgreSQL, pgAdmin                                                                                                                                                                                                                                                         -Machine Learning: Scikit learn, Tensorflow, Keras, FBProphet                                                                                                                                                                                                                                               - Visualization & Analysis: Matplotlib, Plotly, Google Slides, Tableau
 
-#### Kickstarting with Excel	
+### Kickstarting with Excel	
 Using the Kickstarter dataset, visualize campaign outcomes based on their launch dates and their funding goals. 
 
 #### Skills	
 - Excel analysis with visualizations
 
-#### VB of Wall Street	 
+### VB of Wall Street	 
 Identify and analyze stock performance of multiple select green energy stocks.	
 
 #### Skills
 - Visual Basic
 
-#### PyPoll with Python	
+### PyPoll with Python	
 Develop an automated auditing system to certify the results of a recent local congressional election. 	
 
 #### Skills
 - Python basics
 
-#### PyCitySchools with Pandas	
+### PyCitySchools with Pandas	
 
 Prepare standardized test data from each high school district-wide for analysis, reporting and presentation. The results of this analysis will be used to inform the district of performance trends and patterns. This study will highlight possible causation variables to provide insight and understanding for resource allocation and policy administration to maximize district performance in the areas of math and reading.	
 
@@ -110,7 +109,7 @@ Prepare standardized test data from each high school district-wide for analysis,
 - Use multiple methods to perform a function on a DataFrame.
 - Perform mathematical calculations on columns of a DataFrame or Series.
 
-#### PyBer with Matplotlib	
+### PyBer with Matplotlib	
 Pyber is a ride-sharing company that has collected considerable data regarding its service over time. The purpose of this project is to provide an exploratory analysis of the captured data in order to determine trends and correlations.	
 
 #### Skills
@@ -119,7 +118,7 @@ Pyber is a ride-sharing company that has collected considerable data regarding i
 Add error bars to line and bar charts.
 - Pandas, NumPy, and SciPy statistics.
 
-#### WeatherPy with Python APIs	
+### WeatherPy with Python APIs	
 PlanMyTrip is a top travel technology company that specializes in internet-related services in the hotel and lodging industry.
 
 Collect and present data for customers via the search page which can be filtered based upon preferred travel criteria in order to find an ideal hotel anywhere in the world.  Perform tasks using new Python libraries and modules.
@@ -133,7 +132,7 @@ Collect and present data for customers via the search page which can be filtered
 - Perform linear regression, and add regression lines to scatter plots.
 - Create heatmaps, and add markers using the Google Maps API.
 
-#### Employee Database with SQL	
+### Employee Database with SQL	
 Using corporate personnel information, determine the number of imminent retirements and the number of positions that will need to be filled.	
 
 #### Skills
@@ -143,7 +142,7 @@ Using corporate personnel information, determine the number of imminent retireme
 - Use different joins to create new tables in pgAdmin.
 - Write basic to intermediate level SQL statements.
 
-#### ETL - Extract, Transform, Load	
+### ETL - Extract, Transform, Load	
 Develop an algorithm to predict which low-budget movies will become popular, beforehand. 
 
 #### Skills	
@@ -153,7 +152,7 @@ Develop an algorithm to predict which low-budget movies will become popular, bef
 - Use regular expressions to parse data and to transform text into numbers.
 - Load data with PostgreSQL.
 
-#### Surf's Up with Advanced Data Storage and Retrieval	
+### Surf's Up with Advanced Data Storage and Retrieval	
 Using Python, Pandas functions and methods, and SQLAlchemy, filter a database table to retrieve specified data. Convert data to a list, create a DataFrame from the list, and generate the summary statistics.	
 
 #### Skills
@@ -161,7 +160,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, filter a database ta
 - Use SQLAlchemy to connect to and query a SQLite database.
 - Design a Flask application using data.
 
-#### Mission to Mars - Web Scraping with HTML/CSS	
+### Mission to Mars - Web Scraping with HTML/CSS	
 Automate a web browser (app.py) to visit a variety of websites to extract data about the mission to mars. Store data locally in a NoSQL database. Render data in a web application created with Flask.
 
 #### Skills
@@ -170,7 +169,7 @@ Automate a web browser (app.py) to visit a variety of websites to extract data a
 - Create a MongoDB database to store data from the web scrape.
 - Create a web application with Flask to display the data from the web scrape.
 
-#### UFO Sightings with JavaScript	
+### UFO Sightings with JavaScript	
 Create a dynamic web page to clearly present historic UFO sighting data.
 
 #### Skills	
@@ -178,7 +177,7 @@ Create a dynamic web page to clearly present historic UFO sighting data.
 - Convert JavaScript functions to arrow functions.
 - Create, populate, and dynamically filter a table using JavaScript and HTML
 
-#### Plotly & Belly Button Biodiversity	
+### Plotly & Belly Button Biodiversity	
 Use Plotly, a JavaScript data visualization library, to create an interactive data visualization for the web.
 
 #### Skills
@@ -190,7 +189,7 @@ Use Plotly, a JavaScript data visualization library, to create an interactive da
 - Use event handlers in JavaScript to add interactivity to a data visualization.
 - Deploy an interactive chart to GitHub Pages.
 
-#### Mapping Earthquakes with JS & APIs	
+### Mapping Earthquakes with JS & APIs	
 Use JavaScript and the D3.js library to retrieve coordinates and magnitudes of recent earthquakes from the GeoJSON database.	
 
 #### Skills
@@ -201,7 +200,7 @@ Make API requests to a server to host geographical maps.
 - Use JavaScript ES6 functions to add GeoJSON data, features, and interactivity to maps.
 - Render maps on a local server.
 
-#### NY Citibike with Tableau	
+### NY Citibike with Tableau	
 Study the NYC ride sharing service to determine the feasibility of a similar program in Des Moines.
 
 #### Skills
@@ -210,7 +209,7 @@ Study the NYC ride sharing service to determine the feasibility of a similar pro
 - Use Tableau worksheets to display data in a professional way.
 - Portray data accurately using Tableau dashboards.
 
-#### Statistics and R	
+### Statistics and R	
 Perform retrospective analysis on historical data, analytical verification of current automotive specifications and study design of future auto testing.	
 
 #### Skills
@@ -221,7 +220,7 @@ Perform retrospective analysis on historical data, analytical verification of cu
 - Implement and evaluate simple linear regression and multiple linear regression models for a given dataset.
 - Implement and evaluate the one-sample t-Tests, two-sample t-Tests, and analysis of variance (ANOVA) models for a given dataset.
 
-#### Big Data	
+### Big Data	
 Use PySpark to perform the ETL process to extract a dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Use PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in the dataset. 	
 
 #### Skills
@@ -229,7 +228,7 @@ Use PySpark to perform the ETL process to extract a dataset, transform the data,
 - Create pgAdmin database and tie it to the AWS RDS server. 
 - Use PySPark and Pandas to filter, pars and coalesce date 
 
-#### Supervised Machine Learning and Credit Risk	
+### Supervised Machine Learning and Credit Risk	
 Apply machine learning models to a large dataset in order to build and evaluate loan risk factors. Employ multiple models and sampling techniques to train and evaluate unbalanced class data.	
 
 #### Skills
@@ -239,7 +238,7 @@ Apply machine learning models to a large dataset in order to build and evaluate 
 - Determine which supervised learning algorithm is best used for a given data set or scenario.
 - Use ensemble and resampling techniques to improve model performance.
 
-#### Unsupervised Machine Learning and Cryptocurrencies	
+### Unsupervised Machine Learning and Cryptocurrencies	
 Create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
 
 #### Skills	
@@ -248,7 +247,7 @@ Create a report that includes what cryptocurrencies are on the trading market an
 - Determine the best amount of centroids for K-means using the elbow curve.
 - Use PCA to limit features and speed up the model.
 
-#### Neural Networks and Deep Learning Models	
+### Neural Networks and Deep Learning Models	
 Implement a neural network, using the TensorFlow platform in Python, to model (train and test) a dataset containing 34,000 organizations that have previously received funding. The model output is a binary classifier capable of predicting successful donation outcomes.	
 
 #### Skills
