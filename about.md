@@ -17,5 +17,5 @@ Over the last two years, I decided to add a statistical and modeling component t
 
 (Although I am an Oklahoma Sooner, our son is Texas A&M Aggie.  This picture is of our family enjoying a football game in the fall of 2021)
 
-![](_data/1636255684657.jpg)
+![](1636255684657.jpg)
 
