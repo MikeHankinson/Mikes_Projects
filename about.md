@@ -19,4 +19,3 @@ Over the last two years, I decided to add a statistical and modeling component t
 
 ![](_data/1636255684657.jpg)
 
-_data/1636255684657.jpg
