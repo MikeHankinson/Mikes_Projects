@@ -13,3 +13,8 @@ Over the last two years, I decided to add a statistical and modeling component t
 
 
 [Mike Hankinson's LinkedIn Profile](https://www.linkedin.com/in/mike-hankinson-b26a4b5/)
+
+
+(Although I am an Oklahoma Sooner, our son is Texas A&M Aggie.  This picture is of our family enjoying a football game in the fall of 2021)
+
+![]()
